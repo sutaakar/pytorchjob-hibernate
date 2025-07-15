@@ -23,8 +23,8 @@ A Streamlit-based web UI application for listing and monitoring PyTorchJob resou
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/opendatahub-io/distributed-workloads.git
-   cd distributed-workloads/tests/kfto
+   git clone https://github.com/sutaakar/pytorchjob-hibernate.git
+   cd pytorchjob-hibernate
    ```
 
 2. **Install dependencies**:
@@ -268,7 +268,3 @@ spec:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-This project is part of the distributed-workloads repository and follows the same licensing terms. 
